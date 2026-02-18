@@ -12,8 +12,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "CapSDK",
-            url: "https://github.com/Captur/CapSDK-spm/releases/download/1.0.0/CapSDK.xcframework.zip",
-            checksum: "8bfdfb7202aa4d9df2375329eeb0b8c0ff838e4f00a65f3211216e445b582297"
+            url: "https://github.com/Captur/CapSDK-spm/releases/download/1.1.0/CapSDK.xcframework.zip",
+            checksum: "88e647896291dc5629485db9f593ddc7ebbab84263bc9d144fb6204488f36d8c"
         )
     ]
 )
